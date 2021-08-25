@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    font-family: CooperBlack;
+    font-weight: 300;
+    color: blueviolet;
+}
+#applab{
+    width: 100%;
+    height: 800px;
+    background-image:linear-gradient(white,#701da1);
+    font-family: Georgia
+}
+#games{
+    width: 100px;
+    height: 800px;
+    background-image:linear-gradient(white,#701da1);
+    font-family: Georgia
+}
+#chatbot{
+    width: 100px;
+    height: 800px;
+    background-image:linear-gradient(white,#701da1);
+    font-family: Georgia
+}
+img{
+    transition: transform.2s;
+}
+img:hover{transform:scale(0.9)}
+
+.container{
+  text-align: center;   
+}
+#mycarousel{
+    background-color:#701da1;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px
+    color:purple;
+    font-size: 25px;
+    font-family: Comfortaa;
+}
